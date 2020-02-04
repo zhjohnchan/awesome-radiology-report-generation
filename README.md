@@ -18,12 +18,9 @@ Markdown format:
   - [Survey](#survey)
   - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019)
 - [Dataset](#dataset)
-- [Image Captioning Challenge](#image-captioning-challenge)
 - [Popular Implementations](#popular-implementations)
   - [PyTorch](#pytorch)
   - [TensorFlow](#tensorflow)
-  - [Torch](#torch)
-  - [Others](#others)
 
 ## Papers
 ### Survey
