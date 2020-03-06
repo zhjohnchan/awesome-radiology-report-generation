@@ -1,10 +1,10 @@
-# Awesome Medical  Report Generation[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Radiology Report Generation[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
 </p>
 
-A curated list of medical report generation and related areas. :-)
+A curated list of radiology report generation and related areas. :-)
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-medical-report-generation/pulls) or email (chihung.chan@outlook.com) to add links.
@@ -18,9 +18,6 @@ Markdown format:
   - [Survey](#survey)
   - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019)
 - [Dataset](#dataset)
-- [Popular Implementations](#popular-implementations)
-  - [PyTorch](#pytorch)
-  - [TensorFlow](#tensorflow)
 
 ## Papers
 ### Survey
@@ -55,12 +52,6 @@ Markdown format:
 * [MIMIC-CXR: a large publicly available database of labeled chest radiographs](https://deepai.org/publication/mimic-cxr-a-large-publicly-available-database-of-labeled-chest-radiographs) - Johnson A E W et al, `arXiv preprint 2019`.
 * [Padchest: A large chest x-ray image dataset with multi-label annotated reports](https://arxiv.org/pdf/1901.07441) - Bustos A et al, `arXiv preprint 2019`.
 
-
-## Popular Implementations
-### PyTorch
-* [ZexinYan/Medical-Report-Generation](https://github.com/ZexinYan/Medical-Report-Generation)
-### TensorFlow
-* [wangleihitcs/MedicalReportGeneration](https://github.com/wangleihitcs/MedicalReportGeneration)
 
 ## Licenses
 
