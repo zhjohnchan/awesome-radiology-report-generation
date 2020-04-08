@@ -7,7 +7,7 @@
 A curated list of radiology report generation (medical report generation) and related areas. :-)
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-medical-report-generation/pulls) or email (chihung.chan@outlook.com) to add links.
+Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-medical-report-generation/pulls) or email (chihung.chan@outlook.com) to add links or to discuss with me about this area.
 Markdown format:
 ```markdown
 - [Paper Name](link) - Author 1 et al, `Conference Year`. [[code]](link)
