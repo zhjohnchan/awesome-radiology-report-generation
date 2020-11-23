@@ -46,12 +46,17 @@ Markdown format:
 * [Clinically accurate chest X-ray report generation](https://arxiv.org/pdf/1904.02633) - Liu G et al, `arXiv preprint 2019`.
 * [Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/pdf/1911.02541) - Zhang Y et al, `arXiv preprint 2019`.
 
+### 2020
+* [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf) - Chen Z et al, `EMNLP 2020`. [[code]](https://github.com/cuhksz-nlp/R2Gen)
 
 ## Dataset
 * [Preparing a collection of radiology examinations for distribution and retrieval](https://academic.oup.com/jamia/article/23/2/304/2572395) - Demner-Fushman D et al, `JAMIA 2016`.
 * [MIMIC-CXR: a large publicly available database of labeled chest radiographs](https://deepai.org/publication/mimic-cxr-a-large-publicly-available-database-of-labeled-chest-radiographs) - Johnson A E W et al, `arXiv preprint 2019`.
 * [Padchest: A large chest x-ray image dataset with multi-label annotated reports](https://arxiv.org/pdf/1901.07441) - Bustos A et al, `arXiv preprint 2019`.
 
+## Popular Implementations
+### PyTorch
+* [cuhksz-nlp/R2Gen](https://github.com/cuhksz-nlp/R2Gen)
 
 ## Licenses
 
