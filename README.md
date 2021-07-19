@@ -16,12 +16,14 @@ Markdown format:
 ## Table of Contents
 - [Papers](#papers)
   - [Survey](#survey)
-  - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019)
+  - [2016](#2016) - [2017](#2017) - [2018](#2018) - [2019](#2019) - [2020](#2020) - [2021](#2021)
 - [Dataset](#dataset)
 
 ## Papers
 ### Survey
 * [A Survey on Biomedical Image Captioning](https://arxiv.org/pdf/1905.13302) - Kougia V et al, `arXiv preprint 2019`.
+* [Deep learning in generating radiology reports: A survey](https://www.sciencedirect.com/science/article/pii/S0933365719302635?casa_token=r5ldLjKGr9gAAAAA:f4qB7XVPFx9BAug8xI09K_Na82cg4torsrelJ89J3uBZJBl251CTGcRghkoY_kIAbz9ne8pJU3AJ) - Monshi et al, `arXiv preprint 2020`.
+* [Diagnostic Captioning: A Survey](https://arxiv.org/pdf/2101.07299) - Pavlopoulos et al, `arXiv preprint 2021`.
 
 ### 2016
 * [Learning to read chest x-rays: Recurrent neural cascade model for automated image annotation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Shin_Learning_to_Read_CVPR_2016_paper.pdf) - Shin H C et al, `CVPR 2016`.
@@ -37,9 +39,11 @@ Markdown format:
 * [Hybrid retrieval-generation reinforced agent for medical image report generation](http://papers.nips.cc/paper/7426-hybrid-retrieval-generation-reinforced-agent-for-medical-image-report-generation.pdf) - Li Y et al, `NIPS 2018`.
 
 ### 2019
+* [Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports](https://www.aclweb.org/anthology/P19-1657.pdf) - Jing B et al, `ACL 2019`.
+* [Automatic radiology report generation based on multi-view image fusion and medical concept enrichment](https://arxiv.org/pdf/1907.09085) - Yuan et al, `MICCA 2019`.
 * [Addressing data bias problems for chest x-ray image report generation](https://arxiv.org/pdf/1908.02123) - Harzig P et al, `BMVC 2019`.
 * [Knowledge-driven encode, retrieve, paraphrase for medical image report generation](https://www.aaai.org/ojs/index.php/AAAI/article/download/4637/4515) - Li C Y et al, `AAAI 2019`.
-* [Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports](https://www.aclweb.org/anthology/P19-1657.pdf) - Jing B et al, `ACL 2019`.
+* [Automatic Generation of Medical Imaging Diagnostic Report with Hierarchical Recurrent Neural Network](https://ieeexplore.ieee.org/iel7/8961330/8970627/08970668.pdf?casa_token=zMmkGsvlcI8AAAAA:SbNyODTWZI1l5kNG_E6SkOs2r5HMhKrGnu8B1CoxPB7kuvtZmvxS7KIoaZMPA2pysI6VcvmBJ426cQ) - Yin et al, `ICDM 2019`.
 * [EEGtoText: Learning to Write Medical Reports from EEG Recordings](http://proceedings.mlr.press/v106/biswal19a/biswal19a.pdf) - Biswal S et al, `PMLR 2019`.
 * [Multi-Attention and Incorporating Background Information Model for Chest X-Ray Image Report Generation](https://ieeexplore.ieee.org/iel7/6287639/8600701/08867873.pdf) - Huang X et al, `ACCESS 2019`.
 * [Baselines for Chest X-Ray Report Generation](https://ml4health.github.io/2019/pdf/175_ml4h_preprint.pdf) - Boag W et al, `arXiv preprint 2019`.
@@ -48,6 +52,10 @@ Markdown format:
 
 ### 2020
 * [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf) - Chen Z et al, `EMNLP 2020`. [[code]](https://github.com/cuhksz-nlp/R2Gen)
+* [When Radiology Report Generation Meets Knowledge Graph](https://ojs.aaai.org/index.php/AAAI/article/view/6989/6843) - Zhang Y et al, `AAAI 2020`.
+
+### 2021
+* [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.pdf) - Liu F et al, `CVPR 2020`.
 
 ## Dataset
 * [Preparing a collection of radiology examinations for distribution and retrieval](https://academic.oup.com/jamia/article/23/2/304/2572395) - Demner-Fushman D et al, `JAMIA 2016`.
