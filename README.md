@@ -56,6 +56,7 @@ Markdown format:
 
 ### 2021
 * [Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.pdf) - Liu F et al, `CVPR 2020`.
+* [A Self-Boosting Framework for Automated Radiographic Report Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf) - Wang Z et al, `CVPR 2021`.
 
 ## Dataset
 * [Preparing a collection of radiology examinations for distribution and retrieval](https://academic.oup.com/jamia/article/23/2/304/2572395) - Demner-Fushman D et al, `JAMIA 2016`.
