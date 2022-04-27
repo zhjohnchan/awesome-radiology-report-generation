@@ -51,7 +51,7 @@ Markdown format:
 * [Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/pdf/1911.02541) - Zhang Y et al, `arXiv preprint 2019`.
 
 ### 2020
-* [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf) - Chen Z et al, `EMNLP 2020`. [[code]](https://github.com/cuhksz-nlp/R2Gen)
+* [Generating Radiology Reports via Memory-driven Transformer](https://www.aclweb.org/anthology/2020.emnlp-main.112.pdf) - Chen Z et al, `EMNLP 2020`. [[code]](https://github.com/zhjohnchan/R2Gen)
 * [When Radiology Report Generation Meets Knowledge Graph](https://ojs.aaai.org/index.php/AAAI/article/view/6989/6843) - Zhang Y et al, `AAAI 2020`.
 
 ### 2021
@@ -65,7 +65,8 @@ Markdown format:
 
 ## Popular Implementations
 ### PyTorch
-* [cuhksz-nlp/R2Gen](https://github.com/cuhksz-nlp/R2Gen)
+* [zhjohnchan/R2Gen](https://github.com/zhjohnchan/R2Gen)
+* [zhjohnchan/R2GenCMN](https://github.com/zhjohnchan/R2GenCMN)
 
 ## Licenses
 
